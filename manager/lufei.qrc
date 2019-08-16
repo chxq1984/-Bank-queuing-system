@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>lufei.jpg</file>
+    </qresource>
+</RCC>
